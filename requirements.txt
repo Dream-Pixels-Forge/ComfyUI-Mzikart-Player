@@ -1,0 +1,4 @@
+torch>=1.7.0
+numpy>=1.19.0
+soundfile>=0.10.3
+aiohttp>=3.7.4

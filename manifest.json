@@ -1,0 +1,15 @@
+{
+    "name": "ComfyUI-Mzikart-Player",
+    "version": "1.0.0",
+    "description": "Interactive audio player for ComfyUI",
+    "author": "Mzikart",
+    "license": "MIT",
+    "dependencies": {
+        "torch": ">=1.7.0",
+        "numpy": ">=1.19.0",
+        "soundfile": ">=0.10.3",
+        "aiohttp": ">=3.7.4"
+    },
+    "tags": ["audio", "player", "ui", "interactive"],
+    "min_comfy_version": "0.0.1"
+}
